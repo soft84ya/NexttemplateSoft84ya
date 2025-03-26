@@ -23,7 +23,7 @@ Coming soon...
 - Material UI
 
 ## Screenshot
-<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695754476/scrnli_9_27_2023_12-54-18_AM_uipsuk.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
+
 
 ## Soft84ya
 <picture>
